@@ -3,3 +3,5 @@
 
 
 zabbix  API官方文档：https://www.zabbix.com/documentation/3.0/manual/api/reference/history/get
+
+![tt](media/aa.jpg)
