@@ -4,10 +4,11 @@
 
 zabbix  API官方文档：https://www.zabbix.com/documentation/3.0/manual/api/reference/history/get
 
+1、生成authID
 ![tt](media/a1.PNG)
-
+2、获得hostID+主机名
 ![tt](media/a2.PNG)
-
+3、由hostID去得到所有的监控项，即itemID
 ![tt](media/a3.PNG)
-
+4、由itemID获取监控的历史数据。
 ![tt](media/a4.PNG)
